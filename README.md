@@ -1,5 +1,5 @@
-# AngularApp
-# AngularWeatherApp
+# AngularApp with a net core API.
+
 
 ![](docs/screenshot.png)
 
